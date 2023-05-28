@@ -6,7 +6,8 @@ package DocView;
 
 /**
  *
- * @author grazi
+ * @author Gabi
+ 
  */
 
 import static ConexaoSql.Conexao.conector;
